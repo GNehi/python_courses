@@ -5,3 +5,29 @@ In this project we will learn:
   If statements
   Functions and Loops
 
+Project number two will be a library manager. In this project we will learn:
+  Object Oriented Programming
+  Errors and error handling
+  Dealing with files and storage
+  Relative imports and import errors
+  - to extend this project we will use
+  Databases with SQLite
+  Context Managers
+  Type hinting
+  
+Project number three is a Quotes and Book Scraper
+In this project we will learn:
+  Advanced built-in functions
+  Generators
+  Regular Expressions
+  Working with dates and times
+  Advanced data manipulation
+  Web scraping with external libraries
+
+Throughout this course we will also be focused on advanced python knowledge
+  Asynchronous python development
+  Python in the wild
+  Manage your python projects with pipenv
+  Intro to webdev with flask
+  Algorithms and Data structures
+  Popular python libraries
